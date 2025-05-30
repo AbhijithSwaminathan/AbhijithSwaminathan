@@ -1,8 +1,9 @@
+<div style="background:white;">
 <!--- Header --->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+I'm+Abhijith+Swaminathan;Software+Developer+From+India" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=75&lines=Nice+to+Meet+You;Adapting+as+tech+evolves" alt="Typing SVG" /></a>
 <!--- Header Area Ends --->
----
+<hr></hr>
 <!--- Website Area -->
 
 <!--- Website Area Ends-->
@@ -34,7 +35,7 @@
 <!--- Badges Ends--->
 
 
-
+</div>
 
 <!---
 AbhijithSwaminathan/AbhijithSwaminathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
