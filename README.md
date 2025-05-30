@@ -1,6 +1,6 @@
 
 <!--- Header --->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+I'm+Abhijith+Swaminathan;Software+Developer+From+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+I'm+Abhijith+Swaminathan;Software+Developer+Located+In+UK" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=75&lines=Nice+to+Meet+You;Adapting+as+tech+evolves" alt="Typing SVG" /></a>
 <!--- Header Area Ends --->
 ---
@@ -10,14 +10,20 @@
 <!--- Website Area Ends-->
 
 <!--- Description Area --->
-<h2>About Me</h2>
+## 🧐 About Me!
+
+- 💡 **Tech Enthusiast:** Always chasing the latest gadgets—my code editor has more plugins than my kitchen has utensils!
+- 🛠️ **Builder at Heart:** If it can be automated, I’ll probably write a script for it (and name it after a sci-fi character).
+- ✈️ **Frequent Traveller:** My laptop collects more airport WiFi passwords than passport stamps—ask me about debugging at 35,000 feet!
+- 🍣 **Food Critic:** I review code and curries with equal passion; will travel for the perfect bowl of ramen.
+- 🧩 **Puzzle Solver:** Love cracking tough bugs and crossword clues—bonus points if I can do both before breakfast!
 
 <div align="center">
   <a href="https://github.com/AbhijithSwaminathan">
     <img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   </a>
-  <a href="[https://github.com/AbhijithSwaminathan](https://www.linkedin.com/in/abhijith-swaminathan/)">
-    <img alt="LinkedIn" src="[https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)">
+  <a href="https://www.linkedin.com/in/abhijith-swaminathan/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
   </a>
 </div>
 
@@ -82,8 +88,11 @@
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
   </a> -->
 <a href="https://github.com/AbhijithSwaminathan" target="_blank"><img alt="AbhijithSwaminathan" src="https://badges.pufler.dev/visits/AbhijithSwaminathan/AbhijithSwaminathan?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/AbhijithSwaminathan?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbhijithSwaminathan?style=flat&logo=github">
+  </a>
+  <a href="">
+    <img alt="Last Updated" src="https://img.shields.io/badge/last_updated-30.May.2025-informational">
   </a>
 </p>
 
