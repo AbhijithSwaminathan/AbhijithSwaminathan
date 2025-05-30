@@ -64,9 +64,9 @@
 <!--- Currently Working on --->
 <h2>Currently Working On</h2>
 
-[![AppFlowy](https://svg.bookmark.style/api?url=https://github.com/AppFlowy-IO/AppFlowy&mode=dark&style=horizontal)](https://github.com/AppFlowy-IO/AppFlowy)
 [![AppFlowy](https://svg.bookmark.style/api?url=https://github.com/AppFlowy-IO/AppFlowy&mode=light&style=horizontal)](https://github.com/AppFlowy-IO/AppFlowy)
-[![AppFlowy](https://svg.bookmark.style/api?url=https://github.com/AppFlowy-IO/AppFlowy&mode=dark&style=horizontal)](https://github.com/AppFlowy-IO/AppFlowy)
+[![AppFlowy](https://svg.bookmark.style/api?url=https://github.com/frappe/erpnext&mode=dark&style=horizontal)](https://github.com/frappe/erpnext)
+[![AppFlowy](https://svg.bookmark.style/api?url=https://github.com/usememos/memos&mode=light&style=horizontal)](https://github.com/usememos/memos)
 
 <!--- Currently Working on Ends --->
 <hr/>
