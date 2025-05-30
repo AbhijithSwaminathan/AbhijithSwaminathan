@@ -1,7 +1,7 @@
 
 <!--- Header --->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+I'm+Abhijith+Swaminathan;Software+Developer+Located+In+UK" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=75&lines=Nice+to+Meet+You;Adapting+as+tech+evolves" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+I%E2%80%99m+Abhijith+Swaminathan;Software+Developer+in+the+UK;Curious+Mind%2C+Steady+Hands;Embracing+Change" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=75&lines=Welcome+to+my+corner+of+the+internet!;Evolving+with+every+new+commit;Committed+to+continuous+learning;Growing+with+every+project+and+challenge" alt="Typing SVG" /></a>
 <!--- Header Area Ends --->
 ---
 
